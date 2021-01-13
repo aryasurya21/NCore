@@ -4,7 +4,7 @@ s.ios.deployment_target = '14.0'
 s.name = "NCore"
 s.summary = "Dicoding Core.framework for Expert Submission"
 s.requires_arc = true
-s.version = "1.0.1"
+s.version = "1.0.2"
 s.dependency 'RealmSwift'
 s.dependency 'Firebase/Messaging'
 s.license = { :type => "MIT", :file => "LICENSE" }

@@ -11,7 +11,7 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Arya S" => "arya.surya021@gmail.com" }
 s.homepage = "https://github.com/aryasurya21/NCore"
 s.source = { :git => "https://github.com/aryasurya21/NCore.git", :tag => "#{s.version}" }
-s.framework = "UIKit"
+s.framework = "UIKit" 
 s.source_files = "NCore/**/*.{swift}"
 s.exclude_files = "NCore/**/*.plist"
 s.swift_version = "5.1"

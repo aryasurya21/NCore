@@ -5,6 +5,7 @@ s.name = "NCore"
 s.summary = "Dicoding Core.framework for Expert Submission"
 s.requires_arc = true
 s.version = "1.0.2"
+s.dependency 'Realm'
 s.dependency 'RealmSwift'
 s.dependency 'FirebaseMessaging'
 s.license = { :type => "MIT", :file => "LICENSE" }
